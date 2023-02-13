@@ -1,6 +1,16 @@
 # lensing_distortion
 Distorts an image according to an SIS profile.
 
+to run: python aaa.py from terminal
+
+dependencies are:
+astropy
+pillow
+numpy
+matplotlib
+argparse
+scipy
+
 Current state:
 1. Creates a Gaussian background galaxy and distorts it according to an SIS mass profile.
 2. Adds a Sersic galaxy into the image.
