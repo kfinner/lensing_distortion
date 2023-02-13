@@ -1,7 +1,10 @@
 # lensing_distortion
 Distorts an image according to an SIS profile.
 
-to run: ``` python sis_image_sersic_lens.py ``` from terminal
+to run from terminal:
+```
+python sis_image_sersic_lens.py 
+``` 
 
 dependencies are:
 astropy
